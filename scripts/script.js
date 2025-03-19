@@ -1,3 +1,5 @@
+
+
 /* КОНФИГ */
 const preloaderWaitindTime = 1200;
 const cardsOnPage = 5;
